@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Плей-лист дисков</string>
+
+    <string-array name="genres">
+        <item>Рок</item>
+        <item>Поп</item>
+        <item>Хип-хоп</item>
+        <item>Джаз</item>
+        <item>Блюз</item>
+        <item>Классика</item>
+        <item>Электроника</item>
+        <item>Метал</item>
+        <item>Другое</item>
+    </string-array>
+</resources>
